@@ -20,3 +20,22 @@ Sharding ->
 solves DB size/write bottleneck
 
 That chain is system design thinking.
+
+Recommended Exact Learning Path
+DB Indexing
+Replication
+Sharding
+CAP Theorem
+NoSQL
+Kafka
+Microservices
+After These
+
+Start full system design problems:
+
+URL Shortener
+Rate Limiter
+Instagram Feed
+WhatsApp
+YouTube
+Twitter Timeline
